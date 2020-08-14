@@ -22,7 +22,7 @@ Puis lancer le server :
 
 ```PUBLISHABLE_KEY=pk_test_TYooMQauvdEDq54NiTphI7jx \ SECRET_KEY=sk_test_4eC39HqLyjWDarjtT1zdp7dc rails s```
 
-Enfin lancer sur votre navigateur web: [Heroku](https://https://thehackingcoin.herokuapp.com/)
+Enfin lancer sur votre navigateur web: [https://thehackingcoin.herokuapp.com/](https://https://thehackingcoin.herokuapp.com/)
 
 
 
