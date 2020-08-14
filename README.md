@@ -4,7 +4,7 @@
 ![alt text](https://t4.ftcdn.net/jpg/03/20/95/61/240_F_320956114_fOBV9c6kfaO7ajVGh129RmUtQPuxjNHF.jpg "Logo Title Text 1")
 ### Les meilleurs annonces dans votre ville
 
-Pour faire fonctionner le site, dans le dossier de l'application écrire dans le terminal successivement : 
+Pour génèrer la BDD, dans le dossier de l'application écrire sur le terminal Rails successivement : 
 
 ```rm -rf .git``` 
 
@@ -18,9 +18,11 @@ Pour faire fonctionner le site, dans le dossier de l'application écrire dans le
 
 ```rails db:seed``` 
 
+Enfin pour lancer le server :
+
 ```PUBLISHABLE_KEY=pk_test_TYooMQauvdEDq54NiTphI7jx \ SECRET_KEY=sk_test_4eC39HqLyjWDarjtT1zdp7dc rails s```
 
-Enfin lancer sur votre navigateur: [localhost:3000](https://localhost:3000/)
+Enfin lancer sur votre navigateur: [Heroku](https://https://thehackingcoin.herokuapp.com/)
 
 
 
